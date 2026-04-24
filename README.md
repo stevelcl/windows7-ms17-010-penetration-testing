@@ -31,7 +31,7 @@ The objective was to simulate a real-world attack in a controlled lab environmen
 - Detected Windows 7 OS
 - SMB signing disabled
 
-![Ports](screenshots/ports.png)
+![Ports](screenshots/open-ports.png)
 
 ---
 
