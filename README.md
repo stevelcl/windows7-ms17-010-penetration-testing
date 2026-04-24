@@ -80,4 +80,13 @@ The objective was to simulate a real-world attack in a controlled lab environmen
 
 ---
 
-This project was conducted in a controlled lab environment for educational purposes only.
+## 🛠️ Tools Used
+- Kali Linux
+- Nmap
+- Metasploit
+- AutoBlue-MS17-010
+- John the Ripper
+- Windows 7 Virtual Machine
+---
+## ⚠️ Disclaimer
+This project was conducted in a controlled lab environment for educational purposes only. No unauthorized systems were targeted.
