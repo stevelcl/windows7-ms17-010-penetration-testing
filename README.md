@@ -68,3 +68,16 @@ The objective was to simulate a real-world attack in a controlled lab environmen
 ### 7. Final Result
 - Achieved full system compromise
 - Verified highest privilege:
+![System Access](screenshots/system-access.png)
+
+---
+
+## 🧠 Key Learnings
+- Understanding of vulnerability exploitation (MS17-010)
+- Importance of enumeration before exploitation
+- Handling failed exploits and adapting strategy
+- Practical penetration testing workflow
+
+---
+
+This project was conducted in a controlled lab environment for educational purposes only.
